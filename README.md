@@ -9,5 +9,3 @@
 - Database Server (MySQL, MariaDB or PostgreSQL)
 
 ## License
-
-The Application will be open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
